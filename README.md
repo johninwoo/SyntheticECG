@@ -42,11 +42,6 @@ This project is particularly useful in the following scenarios:
 - **Educational Purposes**: Offers a hands-on example of ECG signal processing, which can be used in teaching signal processing techniques or medical data analysis.
 - **Synthetic Data Generation**: Generates realistic synthetic ECG signals that can be used in scenarios where real data is scarce or for augmenting existing datasets.
 
-### Future Enhancements:
-- **Improved Signal Processing**: Adding more sophisticated filters or signal processing techniques to handle noise and artifacts.
-- **Customization**: Allowing for more user-defined parameters in the synthesis process to create more diverse synthetic signals.
-- **Validation**: Implementing metrics to compare synthetic signals against real-world data to ensure their validity and usefulness.
-
 ### Getting Started:
 - **Dependencies**: Ensure that Python and the required libraries (`numpy`, `matplotlib`, `wfdb`, `scipy`) are installed.
 - **Running the Code**: The main script can be executed to load ECG data, process it, and generate synthetic signals. Visualization is included to compare the real and synthetic signals.
